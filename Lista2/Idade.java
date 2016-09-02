@@ -18,7 +18,7 @@ public class Idade {
             JOptionPane.showMessageDialog(null,"Você já é maior de idade!");
         else JOptionPane.showMessageDialog(null,"Você é menor de idade!");
         
-               /*
+        /*
         Para utilizar o operador condicional:
         JOptionPane.showMessageDialog(null,idade >= 21 ? "Você já é maior de idade!" : "Você é menor de idade!");
         */
